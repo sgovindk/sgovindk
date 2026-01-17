@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind</h1>
-<h3 align="center">AI & ML Developer | B.Tech CSE (AI & ML) | India 🇮🇳</h3>
+<h3 align="center">AI & ML Developer |3rd Year B.Tech CSE (AI & ML) | India 🇮🇳</h3>
 
 <p align="center">
 🚀 Building intelligent systems • 🤖 Exploring Agentic AI • 💡 Learning by doing
@@ -10,17 +10,16 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science (AI & ML specialization)  
-- 🧠 Interested in **AI Agents, LLMs, Computer Vision & Backend Systems**  
-- 🛠 Love turning ideas into **working systems**, not just notebooks  
-- 🏗 Built projects like **Aadhaar OCR Validator**, **Multi-Agent Customer Service Bot**, and **Campus Complaints Portal**  
+- 🧠 Interested in **AI Agents, LLMs, Computer Vision, Transformers**  
+- 🛠 Love turning ideas into **working systems**, not just notebooks   
 - 🌱 Currently improving skills in **LLMs, system design, and scalable AI applications**
 
 ---
 
 ## 🔗 Connect With Me
 <p align="left">
-<!-- Add links when ready -->
-<!-- LinkedIn | Portfolio | Email -->
+LinkedIn:https:www.linkedin.com/in/s-govind-krishnan-9a329a375
+Email:govindskrishnan@gmail.com
 </p>
 
 ---
