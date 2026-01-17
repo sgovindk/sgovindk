@@ -13,14 +13,19 @@
 - 🧠 Interested in **AI Agents, LLMs, Computer Vision, Transformers**  
 - 🛠 Love turning ideas into **working systems**, not just notebooks   
 - 🌱 Currently improving skills in **LLMs, system design, and scalable AI applications**
+- ✨ Co-owner and founding member of Nullpointers, a collaborative development team.
 
 ---
 
 ## 🔗 Connect With Me
+
 <p align="left">
-LinkedIn:https:www.linkedin.com/in/s-govind-krishnan-9a329a375
-Email:govindskrishnan@gmail.com
+📧 <b>Email:</b> <a href="mailto:govindskrishnan@gmail.com">govindskrishnan@gmail.com</a><br>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/s-govind-krishnan-9a329a375" target="_blank">
+linkedin.com/in/s-govind-krishnan-9a329a375
+</a>
 </p>
+
 
 ---
 
