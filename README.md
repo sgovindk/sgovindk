@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind</h1>
-<h3 align="center">AI & ML Developer |3rd Year B.Tech CSE (AI & ML) | India 🇮🇳</h3>
+<h3 align="center">AI & ML Developer | 3rd Year B.Tech CSE (AI & ML) | India 🇮🇳</h3>
 
 <p align="center">
 🚀 Building intelligent systems • 🤖 Exploring Agentic AI • 💡 Learning by doing
